@@ -1,3 +1,3 @@
 <?php
-include_once("WavyCircle.html")
+include_once("portfolio.html")
 ?>
